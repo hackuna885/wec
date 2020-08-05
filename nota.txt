@@ -1,0 +1,14 @@
+Para hacer el sistema super rápido offline
+\protected\php\guardarGuiaR01.php
+\protected\php\guardarGuiaR02.php
+\protected\php\guardarGuiaR03.php
+\protected\php\insRegActivacion.php
+
+“se comenta la línea de envió de correo”
+Desde
+// $mail = new PHPMailer(true);
+A
+// echo '</div>';
+En style.css se comenta:
+/*@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";*/
+/*font-family: 'Poppins', sans-serif;*/
